@@ -19,10 +19,10 @@ jobs:
     jenkinsfile_path: "exercise3/app-dns-and-alb/alb_dns_pipeline"
     auto_trigger: true
   - job_path: "bitfrost/alb-and-dns"
-    jenkinsfile_git_repo: "git@github.com:ecsworkshop2018/bifrost-mapping.git"
+    jenkinsfile_git_repo: "git@github.com:pmahajan-ee/bifrost-mapping.git"
     jenkinsfile_path: "alb-and-dns/Jenkinsfile"
     auto_trigger: true
   - job_path: "bitfrost/cluster-and-service"
-    jenkinsfile_git_repo: "git@github.com:ecsworkshop2018/bifrost-mapping.git"
+    jenkinsfile_git_repo: "git@github.com:pmahajan-ee/bifrost-mapping.git"
     jenkinsfile_path: "Jenkinsfile"
     auto_trigger: true
